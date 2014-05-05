@@ -43,6 +43,8 @@
 
 [github.com/takicat/takicat/](https://github.com/takicat/takicat/) - репозиторий проекта
 
+[http://gik.fordak.ru/index.php?topic=12306.0](http://gik.fordak.ru/index.php?topic=12306.0) - обсуждение проекта
+
 ## Версия 
 
 Текущая версия 0.1.dev (в разработке).
